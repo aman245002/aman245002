@@ -15,9 +15,7 @@
 🎯 Goals: To work on impactful AI solutions that promote accessible education and smart automation<br>
 🎲 Fun fact: I enjoy solving coding challenges and debugging complex bugs just for fun!</p>
 
-###
 
-<h2 align="left">I code with</h2>
 
 ###
 
