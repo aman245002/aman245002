@@ -56,3 +56,6 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at C.V. Raman Global
 - 📧 **Email:** [amanacloud2001@gmail.com](mailto:amanacloud2001@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/aman245002](https://linkedin.com/in/aman245002)  
 ---
+
+![Snake animation](https://github.com/aman245002/aman245002/blob/output/github-contribution-grid-snake.svg)
+
