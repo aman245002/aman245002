@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Sharma</h1>
 <p align="center">Bhubaneswar, Odisha, India | Computer Science Student | AI/ML | Software Development </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=aman245002&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ---
 
 ### 👨‍💻 About Me
