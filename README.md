@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Sharma</h1>
-<p align="center">Bhubaneswar, Odisha, India | Computer Science Student | AI/ML | Software Development </p>
+<p align="center">Bhubaneswar, Odisha, India | Computer Science Student | Data Science | Software Development </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aman245002&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -57,7 +57,7 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at C.V. Raman Global
 
 - 🏅 **Cranes Varsity** – 1st Prize (Experiential Project-Based Learning)  
 - 🌟 **Smart India Hackathon 2024** – Selected for prototype stage  
-- 🤖 **IIT Bhubaneswar Pravaah ML Hackathon** – Participation Certificate
+- 🤖 **IIT Bhubaneswar Pravaah ML Hackathon & NHAI Road Safety Hackathon** – Participation Certificate
 - 💻 **Flipkart Grid 6.0**, **Amazon HackOn**, **Tata Challenges**, **GeeksforGeeks Algo Arena** – Participation Certificates
 
 ---
@@ -74,7 +74,7 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at C.V. Raman Global
 
 - 📞 **Phone:** +91 7541801374  
 - 📧 **Email:** [amanacloud2001@gmail.com](mailto:amanacloud2001@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/aman245002](https://linkedin.com/in/aman245002)  
+- 💼 **LinkedIn:** [linkedin.com/in/aman245002](https://www.linkedin.com/in/aman-kumar-sharma-8b892b345/)  
 - 🌐 **Portfolio:** [aman245002.github.io/portfolio](https://aman245002.github.io/portfolio)
 
 
