@@ -3,9 +3,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aman245002&label=Profile%20views&color=0e75b6&style=flat)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman245002&layout=compact&theme=default)
+<h3 align="center">📊 GitHub Insights</h3>
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman245002&show_icons=true&theme=tokyonight)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman245002&layout=compact&theme=default" alt="Most Used Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=aman245002&show_icons=true&theme=default" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
