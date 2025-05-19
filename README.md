@@ -5,6 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman245002&layout=compact&theme=default)
 
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman245002&show_icons=true&theme=tokyonight)
+
+
 
 ---
 
