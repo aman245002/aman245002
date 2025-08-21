@@ -63,6 +63,10 @@
 
 **Profile:** [amanclovm0h](https://www.geeksforgeeks.org/user/amanclovm0h/)
 
+<p align="center">
+  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
+</p>
+
 
 ### 👨‍💻 About Me
 
