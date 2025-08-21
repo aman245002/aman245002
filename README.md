@@ -5,7 +5,7 @@
 <p align="center">Bhubaneswar, Odisha, India | Computer Science Student | Data Science | Software Development </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aman245002/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aman245002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <p align="center">
