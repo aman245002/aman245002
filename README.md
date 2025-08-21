@@ -113,7 +113,7 @@
 
 ## 🐍 My GitHub Contributions
 
-![Snake animation](https://github.com/aman245002/aman245002/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/aman245002/aman245002/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
