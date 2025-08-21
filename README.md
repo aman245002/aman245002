@@ -23,6 +23,23 @@
 
 ---
 
+# 💻 Coding Platform Statistics
+
+## 🧮 LeetCode Profile
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aman_245002?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/aman_245002/)
+
+**Profile:** [aman_245002](https://leetcode.com/u/aman_245002/)
+
+---
+
+## 📚 GeeksforGeeks Profile
+
+[![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=amanclovm0h&theme=dark)](https://www.geeksforgeeks.org/user/amanclovm0h/)
+
+**Profile:** [amanclovm0h](https://www.geeksforgeeks.org/user/amanclovm0h/)
+
+
 ### 👨‍💻 About Me
 
 I'm **Aman Kumar Sharma**, a Computer Science undergraduate at C.V. Raman Global University with a specialization in **Artificial Intelligence and Machine Learning (AI/ML)**. I have a passion for solving real-world problems using advanced technologies, ranging from machine learning to embedded systems and full-stack development.
