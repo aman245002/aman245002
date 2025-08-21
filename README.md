@@ -35,7 +35,11 @@
 
 ## 📚 GeeksforGeeks Profile
 
-[![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=amanclovm0h&theme=dark)](https://www.geeksforgeeks.org/user/amanclovm0h/)
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding%20Score-190-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-69-green?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/POTD%20Streak-0%2F1481-orange?style=for-the-badge&logo=geeksforgeeks" alt="POTD Streak" />
+</div>
 
 **Profile:** [amanclovm0h](https://www.geeksforgeeks.org/user/amanclovm0h/)
 
