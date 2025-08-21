@@ -36,10 +36,30 @@
 ## 📚 GeeksforGeeks Profile
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Coding%20Score-190-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-69-green?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
-  <img src="https://img.shields.io/badge/POTD%20Streak-0%2F1481-orange?style=for-the-badge&logo=geeksforgeeks" alt="POTD Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/amanclovm0h-GFG%20Profile-00ff00?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problems%20Solved-69%20Total-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coding%20Score-190-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/POTD%20Streak-0%2F1481-orange?style=for-the-badge&logo=geeksforgeeks" alt="POTD Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 **Profile:** [amanclovm0h](https://www.geeksforgeeks.org/user/amanclovm0h/)
 
