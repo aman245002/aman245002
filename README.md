@@ -150,7 +150,3 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at C.V. Raman Global
   </a>
 </div>
 
-- 📞 **Phone:** +91 7541801374
-- 📧 **Email:** [amanacloud2001@gmail.com](mailto:amanacloud2001@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/aman245002](https://www.linkedin.com/in/aman-kumar-sharma-8b892b345/)
-- 🌐 **Portfolio:** [aman245002.github.io/portfolio](https://aman245002.github.io/portfolio)
