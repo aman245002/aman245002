@@ -63,12 +63,12 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Problems%20Solved-84%20Total-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
+        <img src="https://img.shields.io/badge/Problems%20Solved-89%20Total-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Coding%20Score-211-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
+        <img src="https://img.shields.io/badge/Coding%20Score-232-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
       </td>
     </tr>
     <tr>
