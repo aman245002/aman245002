@@ -25,28 +25,17 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at **C.V. Raman Glob
 
 ---
 
+---
+
 ## 📊 GitHub Insights & Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman245002&layout=compact&theme=default" alt="Most Used Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aman245002&show_icons=true&theme=default" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman245002&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman245002&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman245002&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman245002&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman245002&theme=github_dark" />
 </div>
 
 ---
