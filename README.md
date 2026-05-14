@@ -119,6 +119,3 @@ I'm **Aman Kumar Sharma**, a Computer Science undergraduate at **C.V. Raman Glob
 </div>
 
 <br>
-<div align="center">
-  <sub>Built with precision and passion by <b>Aman Kumar Sharma</b></sub>
-</div>
